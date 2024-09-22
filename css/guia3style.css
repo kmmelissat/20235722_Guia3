@@ -29,6 +29,7 @@ a {
 
 a:hover {
     font-weight: bold;
+    color: pink;
 }
 
 .guia-card {
